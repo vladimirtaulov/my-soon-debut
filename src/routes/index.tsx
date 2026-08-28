@@ -80,7 +80,7 @@ function Index() {
           </p>
 
           <h1 className="mt-6 font-serif text-5xl leading-[1.1] tracking-tight md:text-7xl">
-            A new home for selected art-works
+            A new home for selected work
           </h1>
 
           <p className="mx-auto mt-6 max-w-lg text-base leading-relaxed text-muted-foreground md:text-lg">
